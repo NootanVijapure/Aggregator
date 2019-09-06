@@ -24,8 +24,8 @@ public class Consumer {
         saveProducts(products);
         System.out.println("Received product: " + products);
 
-        System.out.println("port num"+(environment.getProperty("server.port")+ environment.getProperty("server.host"))) ;
-        System.out.println(products.get(0).getDescriptor());
+        System.out.println("port num"+(environment.getProperty("server.port"))) ;
+
     }
 
     public void saveProducts(List<Product> products){

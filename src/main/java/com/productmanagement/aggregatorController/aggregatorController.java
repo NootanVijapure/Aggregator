@@ -24,7 +24,7 @@ public class aggregatorController {
     }
 
     @RequestMapping( "/item" )
-    public String getStockItem() {
+    public String getItem() {
         return "It's working...!";
     }
 
