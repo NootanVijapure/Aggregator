@@ -1,6 +1,0 @@
-com\productmanagement\repository\ProductMgmtDao.class
-com\productmanagement\service\ProductMgmtImpl.class
-com\productmanagement\consumer\Consumer.class
-com\productmanagement\model\Product.class
-com\productmanagement\SpringConsumerApplication.class
-com\productmanagement\aggregatorController\aggregatorController.class
